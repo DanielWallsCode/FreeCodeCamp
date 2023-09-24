@@ -1,3 +1,2 @@
-# Mi primer readme repositorio
+# Mi primer README
 Freecodecamp
-Holanda
